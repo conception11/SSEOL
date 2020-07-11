@@ -1,0 +1,9 @@
+# STS
+pom.properties
+MANIFEST.MF
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
